@@ -1,6 +1,6 @@
 # Spotify Clone
 
-Welcome to the Spotify Clone project! This web application replicates some of the basic functionalities of Spotify using HTML and CSS. You can check out the live demo [here](https://chauhan-yuvraj.github.io/spotifyclone/).
+Hello and Welcome to the Spotify Clone project! This web application replicates some of the basic functionalities of Spotify using HTML and CSS. You can check out the live demo [here](https://chauhan-yuvraj.github.io/spotifyclone/).
 
 ## Table of Contents ..
 
